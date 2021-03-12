@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Esteban Rodriguez and I'm an economist from Argentina. I like programming and I'm specialized mostly in R. You can find more about me on [![LinkedIn][1.1]][1]
+
+Here is a description of my repositories.
+
+<!-- Icons -->
+
+[1.1]: https://raw.githubusercontent.com/esterodr/esterodr/master/Icons/linkedin.svg
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/esteban-rodriguez-80741434/
