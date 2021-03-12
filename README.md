@@ -21,7 +21,7 @@ Here is a description of my repositories.
 
 <!-- Icons -->
 
-[1.1]: https://raw.githubusercontent.com/esterodr/esterodr/master/Icons/linkedin.svg
+[1.1]: https://raw.githubusercontent.com/esterodr/esterodr/master/Icons/linkedin.png
 
 <!-- Links to your social media accounts -->
 
