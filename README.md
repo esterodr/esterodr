@@ -1,23 +1,47 @@
-### Hi there 👋
+## Bienvenidos 👋
 
-<!--
-**esterodr/esterodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Esteban Rodríguez, soy economista y actualmente trabajo en el Banco Central de la República Argentina. Me gusta programar, me sirve para ahorrar mucho trabajo y experimentar cosas nuevas. Estoy especializado más que nada en R, aunque sé lo básico de varios lenguajes. Pueden encontrar una descripción más amplia de mi perfil y antecedentes en mi [![LinkedIn][1.1]][1]. Aquí sólo cuento algunos proyectos que involucran programación.
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Activos
 
-My name is Esteban Rodriguez and I'm an economist from Argentina. I like programming and I'm specialized mostly in R. You can find more about me on [![LinkedIn][1.1]][1]
+📊 [Gráficos Monetarios de Argentina](https://esterodr.github.io/Monitor_v2/index.html)
 
-Here is a description of my repositories.
+Más de 100 gráficos con información económica que se actualiza diariamente. El sitio no es particularmente lindo, pero me sirve en mi trabajo para consultar rápidamente variables clave. Los gráficos están hechos en ggplot y son estáticos (por eso el mismo gráfico puede aparecer varias veces con distinta temporalidad). El esqueleto del sitio es HTML básico.
+
+🏫 [R Lab para curso de estadística nivel universitario (Parte 1)](https://github.com/esterodr/TP_Estadistica) y [(Parte 2)](https://github.com/esterodr/TP2_Estadistica)
+
+Hecho para el curso de *Estadística I* de Tamara Burdisso, en la *Facultad de Ciencias Económicas de la Universidad de Buenos Aires*, donde di clases varios años. Es un trabajo práctico pensado para estudiantes que no tienen conocimientos de programación. Cubre los principales tópicos de un curso inicial de Estadística: gráficos, indicadores, probabilidad, inferencia, regresión lineal. Está montado sobre un servidor Binder (los links para ejecutarlos están en el Readme del repositorio).
+
+***
+
+## Actualmente experimentando con
+
+🧠 **Neural Networks** para pronósticos con series temporales.
+
+📰 **Text analysis** para la construcción de indicadores económicos en base a noticias y redes sociales.
+
+🤑 **Trading bots**. Me gusta el trading pero no tengo tiempo para hacerlo, así que trato de automatizar lo que haría si estuviera mirando la pantalla.
+
+Próximamente iré subiendo más detalles sobre estos proyectos.
+
+***
+
+## Proyectos Archivados
+
+🌲 [Código](https://github.com/esterodr/DO) utilizado en mi *Tesis de Maestría en Economía* de la *Facultad de Ciencias Económicas de la Universidad de Buenos Aires*. Consiste en una estimación de la desigualdad de oportunidades en Argentina mediante **regression trees y random forests**. La Tesis completa se puede descargar desde [aquí](http://bibliotecadigital.econ.uba.ar/econ/collection/tpos/document/1502-1541_RodriguezEE).
+
+Hace unos años obtuve el *Professional Certificate* de la *Data Science Specialization* de *HarvardX/Edx*. Para ello, tuve que presentar los siguientes trabajos finales:
+
+🎥 [Movie Ratings predictions using the MovieLens database](https://github.com/esterodr/MovieLens)
+
+📱 [Identification of fraudulent transactions in electronic payments](https://github.com/esterodr/fraud)
+
+***
+
+📧 [Contacto](mailto:esteban.rgz@gmail.com)
+
 
 <!-- Icons -->
 
