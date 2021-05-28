@@ -8,7 +8,7 @@ Mi nombre es Esteban Rodríguez, soy economista y actualmente trabajo en el Banc
 
 📊 [Gráficos Monetarios de Argentina](https://esterodr.github.io/Monitor_v2/index.html)
 
-Más de 100 gráficos con información económica que se actualiza diariamente. El sitio no es particularmente lindo, pero me sirve en mi trabajo para consultar rápidamente variables clave. Los gráficos están hechos en ggplot y son estáticos (por eso el mismo gráfico puede aparecer varias veces con distinta temporalidad). El esqueleto del sitio es HTML básico.
+Más de 100 gráficos con información económica que se actualiza diariamente. El sitio no es particularmente lindo, pero me sirve en mi trabajo para consultar rápidamente variables clave. El sitio está hecho con RMarkdwon más algo básico de Javascript. Los gráficos están hechos en ggplot y son estáticos (por eso el mismo gráfico puede aparecer varias veces con distinta temporalidad). 
 
 🏫 [R Lab para curso de estadística nivel universitario (Parte 1)](https://github.com/esterodr/TP_Estadistica) y [(Parte 2)](https://github.com/esterodr/TP2_Estadistica)
 
