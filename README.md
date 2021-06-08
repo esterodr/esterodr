@@ -6,7 +6,7 @@ Mi nombre es Esteban Rodríguez, soy economista y trabajo en el BCRA. Recurro a 
 
 ## Proyectos Activos
 
-[Hojas de Balance de la Economía Argentina](https://esterodr.shinyapps.io/hojas_de_balance/) (En construcción). Herramienta para simular las interrelaciones entre los distintos agentes económicos y los efectos de ciertas políticas. Creo que puede ser útil tanto para alguien que está aprendiendo Economía como para evaluar y discutir políticas entre colegas.
+[Hojas de Balance de la Economía Argentina](https://esterodr.shinyapps.io/hojas_de_balance/) (En construcción). Herramienta para simular las interrelaciones entre los distintos agentes económicos y los efectos de ciertas políticas. Útil tanto para fines didácticos como para evaluar y discutir políticas entre colegas. Totalmente escrita en R con el paquete Shiny.
 
 [Gráficos Monetarios de Argentina](https://esterodr.github.io/Monitor_v2/index.html)
 
