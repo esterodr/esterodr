@@ -1,6 +1,8 @@
+<div style="text-align: right">[English Version](https://esterodr.github.io/esterodr_eng/)</div>
+
 ## Bienvenidos
 
-Mi nombre es Esteban Rodríguez, soy economista y doy clases de Estadística en la FCE-UBA. Programo más que nada en R, por placer y para hacer más eficiente mi trabajo. Aquí cuento algunas de las cosas que tengo en Github.
+Mi nombre es Esteban Rodríguez, soy economista y profesor de Estadística. Para mi trabajo y proyectos personales utilizo mucho el lenguaje de programación R. Aquí comparto algunas de las cosas que he realizado.
 
 ***
 
@@ -12,7 +14,7 @@ Material de las clases de Estadística que dicto en la Facultad de Ciencias Econ
 
 **[Probabilidades para el Mundial Qatar 2022](https://esterodr.github.io/Mundial/)**
 
-Realizado con fines didácticos para mostrar en mi curso de Estadística cómo se calculan probabilidades mediante simulación. 
+Realizado con fines didácticos para mostrar cómo se calculan probabilidades mediante simulación. 
 
 **[R Lab para curso de estadística nivel universitario (Parte 1)](https://github.com/esterodr/TP_Estadistica) y [(Parte 2)](https://github.com/esterodr/TP2_Estadistica)**
 
