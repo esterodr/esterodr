@@ -1,6 +1,6 @@
-<div style="text-align: right">[English Version](https://esterodr.github.io/esterodr_eng/)</div>
+## Bienvenidos a mi página en Github
 
-## Bienvenidos
+[Go to English Version](https://esterodr.github.io/esterodr_eng/)
 
 Mi nombre es Esteban Rodríguez, soy economista y profesor de Estadística. Para mi trabajo y proyectos personales utilizo mucho el lenguaje de programación R. Aquí comparto algunas de las cosas que he realizado.
 
